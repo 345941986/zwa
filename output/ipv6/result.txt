@@ -886,7 +886,7 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-17.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-18.ctv
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-3.m3u8
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-25.ctv
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-25.ctv
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-14.ctv
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-25.m3u8
@@ -1250,4 +1250,4 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 音乐广播,https://tv.iill.top/fm/552&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 
 🕘️更新时间,#genre#
-2025-12-15 18:35:31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-16 06:27:09,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
